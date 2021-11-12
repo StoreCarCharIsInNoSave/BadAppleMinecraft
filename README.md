@@ -7,4 +7,4 @@
 4. Выбрать ресурспак с названием badapple в настройках игры
 5. После захода на сервер требуется обозначить старт-блок с помощью /setba
 6. Произвести запуск с помощью /badapple
-https://www.youtube.com/watch?v=4ksFyix3Mpw
+7. Демонстрация --> https://www.youtube.com/watch?v=4ksFyix3Mpw
